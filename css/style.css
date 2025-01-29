@@ -158,7 +158,7 @@ body{
     height: 130px;
     width: 130px;
     border-radius: 50%;
-    background: conic-gradient(#7d2ae8 3.6deg, #ededed 0deg);
+    background: conic-gradient(#7d2ae8 3.6deg, #d68080 0deg);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -169,7 +169,7 @@ body{
     height: 120px;
     width: 120px;
     border-radius: 50%;
-    background-color: #fff;
+    background-color: #d3b0b0;
 }
 .progress-value{
     position: relative;
@@ -177,13 +177,13 @@ body{
     font-weight: 600;
 }
 .html-progress{
-    color: #fca61f;
+    color: #6c5633;
 }
 .javascript-progress{
-    color: #6f34fe;
+    color: #413263;
 }
 .php-progress{
-    color: #20c997;
+    color: #1f7e62;
 }
 .reactjs-progress{
     color: #3f396d;
@@ -211,7 +211,7 @@ body{
   margin: 0 25px;
 }
 #myBtnContainer button:hover{
-    color: #fca61f;
+    color: #785317;
 }
 
 #myBtnContainer button:focus{
@@ -231,11 +231,11 @@ body{
     transition-duration: 1s;
 }
 .testimonial h4{
-    color: #3f396d;
+    color: #92307d;
 }
 .testimonial i{
     font-size: 2.9rem;
-    color: #fca61f;
+    color: #932b72;
     
 }
 .testimonial .nextprev-btn{
@@ -276,7 +276,7 @@ body{
     text-decoration: none;
 }
 .blogpost a:hover{
-    color: #fca61f;
+    color: #49330f;
 }
 .blog .blogpost .read-more-btn{
     text-decoration: none;
@@ -284,7 +284,7 @@ body{
     font-size: 1.1rem;
 }
 .blog .blogpost .read-more-btn:hover{
-    color: #6f34fe;
+    color: #351f6a;
 }
 /* styling modal group  */
 .btn-c{
@@ -307,11 +307,11 @@ body{
 }
 /* contact section starts */
 .contact{
-    background-color: #f3f3f3;
+    background-color: #9a5252;
 }
 .contact-details i{
     font-size: 1.5rem;
-    color: #fca61f;
+    color: #634d2b;
 }
 .contact-details p{
     font-size: 1.2rem;
@@ -319,7 +319,7 @@ body{
 }
 .contact-form .form-control:focus{
     box-shadow: none;
-    border: 1px solid #fca61f;
+    border: 1px solid #976312;
 }
 .contact-form .form-control{
     padding: 10px 10px;
@@ -350,10 +350,10 @@ footer .link-group a:hover{
     padding: 14px 15px 10px 15px;
 }
 .social-links .dribble{
-    color: #f33a7e;
+    color: #bc2126;
 }
 .social-links button:hover{
-    color: #fff;
+    color: #d68080;
     transform: translateY(-20px);
     transition-duration: 1s;
 }
@@ -361,16 +361,16 @@ footer .link-group a:hover{
     background-color: #f33a7e;
 }
 .social-links .whatsapp{
-    color: #25D366;
+    color: #0b401f;
 }
 .social-links .whatsapp:hover{
-    background-color: #25D366;
+    background-color: #92307d;
 }
 .social-links .behance{
-    color: #255afc;
+    color: #1e3371;
 }
 .social-links .behance:hover{
-    background-color: #255afc;
+    background-color: #273d80;
 }
 
 /* styling back to top button */
@@ -380,7 +380,7 @@ footer .link-group a:hover{
     right: 40px;
     display: none;
     font-size: 1.4rem;
-    background-color: #fca61f;
-    color: #fff;
+    background-color: #705a38;
+    color: #6145a8;
     animation: pulse 3s infinite;
 }
